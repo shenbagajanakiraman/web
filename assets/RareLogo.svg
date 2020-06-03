@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="512" height="512" viewBox="0 0 100 100">
+	<g transform="
+                    translate(50 50)
+                    translate(0 0)  scale(0.85)  
+                    translate(-50 -50)
+                    ">
+		<g transform="scale(0.36071099077626506) translate(-12.384925842285156 -11.384005546569824)" id="picture">
+			<g stroke-width="1.5" fill="#b0ff92" stroke="">
+				<path transform="matrix(1.6309 0 0 1.88603 22.107 -83.996)" d="M90 77h15v80H90z" />
+				<path transform="matrix(1.6309 0 0 1.43555 -32.248 -28.146)" d="M90 77h15v80H90z" />
+				<path transform="matrix(1.15479 1.15165 -.53525 .53865 51.824 -62.698)" d="M90 77h15v80H90z" />
+				<path transform="rotate(45 43.725 184.794) scale(1.6100 1.27800)" d="M90 77h15v80H90z" />
+				<path transform="rotate(45 250.959 126.502) scale(1.6309 .88154)" d="M90 77h15v80H90z" />
+			</g>
+		</g>
+	</g>
+</svg>
